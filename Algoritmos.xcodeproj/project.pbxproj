@@ -11,6 +11,7 @@
 		3AF0ED6D26AF1D3A00C95951 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AF0ED6C26AF1D3A00C95951 /* ContentView.swift */; };
 		3AF0ED6F26AF1D3B00C95951 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AF0ED6E26AF1D3B00C95951 /* Assets.xcassets */; };
 		3AF0ED7226AF1D3B00C95951 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AF0ED7126AF1D3B00C95951 /* Preview Assets.xcassets */; };
+		3AF0ED7A26AF247F00C95951 /* AlgoritmosView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AF0ED7926AF247F00C95951 /* AlgoritmosView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3AF0ED6E26AF1D3B00C95951 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3AF0ED7126AF1D3B00C95951 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3AF0ED7326AF1D3B00C95951 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3AF0ED7926AF247F00C95951 /* AlgoritmosView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgoritmosView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3AF0ED6A26AF1D3A00C95951 /* AlgoritmosApp.swift */,
 				3AF0ED6C26AF1D3A00C95951 /* ContentView.swift */,
+				3AF0ED7926AF247F00C95951 /* AlgoritmosView.swift */,
 				3AF0ED6E26AF1D3B00C95951 /* Assets.xcassets */,
 				3AF0ED7326AF1D3B00C95951 /* Info.plist */,
 				3AF0ED7026AF1D3B00C95951 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3AF0ED6D26AF1D3A00C95951 /* ContentView.swift in Sources */,
+				3AF0ED7A26AF247F00C95951 /* AlgoritmosView.swift in Sources */,
 				3AF0ED6B26AF1D3A00C95951 /* AlgoritmosApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
