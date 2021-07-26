@@ -9,7 +9,10 @@ import SwiftUI
 
 struct AlgoritmosView: View {
     var body: some View {
+        VStack{
         Text("Mostrar Algoritmos")
+            Text("más algoritmos")
+    }
     }
 }
 
