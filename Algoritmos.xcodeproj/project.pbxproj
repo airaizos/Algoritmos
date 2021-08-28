@@ -7,23 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3AF0ED6B26AF1D3A00C95951 /* AlgoritmosApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AF0ED6A26AF1D3A00C95951 /* AlgoritmosApp.swift */; };
-		3AF0ED6D26AF1D3A00C95951 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AF0ED6C26AF1D3A00C95951 /* ContentView.swift */; };
 		3AF0ED6F26AF1D3B00C95951 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AF0ED6E26AF1D3B00C95951 /* Assets.xcassets */; };
 		3AF0ED7226AF1D3B00C95951 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AF0ED7126AF1D3B00C95951 /* Preview Assets.xcassets */; };
-		3AF0ED7A26AF247F00C95951 /* AlgoritmosView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AF0ED7926AF247F00C95951 /* AlgoritmosView.swift */; };
-		3AF0ED7D26AF25E800C95951 /* Mas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AF0ED7C26AF25E800C95951 /* Mas.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3AEB0DF126D973F7009BD56D /* Apple and Orange.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Apple and Orange.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3AEB0DF226D974DA009BD56D /* Breaking the Records.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Breaking the Records.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3AEB0DF326D97534009BD56D /* Subarray Division.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Subarray Division.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3AEB0DF426D9759F009BD56D /* Migratory Birds.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Migratory Birds.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3AEB0DF526D975EB009BD56D /* Day of the Programmer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day of the Programmer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3AEB0DF626D97613009BD56D /* Bill Division.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Bill Division.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3AEB0DF726D97684009BD56D /* Sales by Match.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Sales by Match.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3AEB0DF826D97723009BD56D /* Drawing Book.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Drawing Book.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3AEB0DF926D97778009BD56D /* Counting Valleys.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Counting Valleys.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3AEB0DFA26D9779B009BD56D /* Electronic Shop.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Electronic Shop.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3AEB0DFB26D977BE009BD56D /* Cats and Mouse.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Cats and Mouse.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3AEB0DFC26D977D9009BD56D /* Picking Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Picking Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3AEB0DFD26D97873009BD56D /* The Hurdle Race.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "The Hurdle Race.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3AEB0DFE26D978A4009BD56D /* Designer PDF Viewer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Designer PDF Viewer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3AEB0DFF26D978FB009BD56D /* Utopian Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Utopian Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3AEB0E0026D9791E009BD56D /* Angry Professor.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Angry Professor.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		3AEB0E0126D97B07009BD56D /* Beautiful Days at the Movies .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Beautiful Days at the Movies .playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		3AF0ED6726AF1D3A00C95951 /* Algoritmos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Algoritmos.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		3AF0ED6A26AF1D3A00C95951 /* AlgoritmosApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgoritmosApp.swift; sourceTree = "<group>"; };
-		3AF0ED6C26AF1D3A00C95951 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3AF0ED6E26AF1D3B00C95951 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3AF0ED7126AF1D3B00C95951 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3AF0ED7326AF1D3B00C95951 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3AF0ED7926AF247F00C95951 /* AlgoritmosView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgoritmosView.swift; sourceTree = "<group>"; };
-		3AF0ED7C26AF25E800C95951 /* Mas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mas.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,11 +65,26 @@
 		3AF0ED6926AF1D3A00C95951 /* Algoritmos */ = {
 			isa = PBXGroup;
 			children = (
-				3AF0ED6A26AF1D3A00C95951 /* AlgoritmosApp.swift */,
-				3AF0ED7B26AF25C300C95951 /* Vistas */,
+				3AEB0E0026D9791E009BD56D /* Angry Professor.playground */,
+				3AEB0DFF26D978FB009BD56D /* Utopian Tree.playground */,
+				3AEB0DFE26D978A4009BD56D /* Designer PDF Viewer.playground */,
+				3AEB0DFD26D97873009BD56D /* The Hurdle Race.playground */,
+				3AEB0DFC26D977D9009BD56D /* Picking Numbers.playground */,
+				3AEB0DFB26D977BE009BD56D /* Cats and Mouse.playground */,
+				3AEB0DFA26D9779B009BD56D /* Electronic Shop.playground */,
+				3AEB0DF926D97778009BD56D /* Counting Valleys.playground */,
+				3AEB0DF426D9759F009BD56D /* Migratory Birds.playground */,
+				3AEB0DF126D973F7009BD56D /* Apple and Orange.playground */,
+				3AEB0DF226D974DA009BD56D /* Breaking the Records.playground */,
+				3AEB0DF326D97534009BD56D /* Subarray Division.playground */,
+				3AEB0DF526D975EB009BD56D /* Day of the Programmer.playground */,
+				3AEB0DF626D97613009BD56D /* Bill Division.playground */,
+				3AEB0DF726D97684009BD56D /* Sales by Match.playground */,
+				3AEB0DF826D97723009BD56D /* Drawing Book.playground */,
 				3AF0ED6E26AF1D3B00C95951 /* Assets.xcassets */,
 				3AF0ED7326AF1D3B00C95951 /* Info.plist */,
 				3AF0ED7026AF1D3B00C95951 /* Preview Content */,
+				3AEB0E0126D97B07009BD56D /* Beautiful Days at the Movies .playground */,
 			);
 			path = Algoritmos;
 			sourceTree = "<group>";
@@ -71,16 +95,6 @@
 				3AF0ED7126AF1D3B00C95951 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		3AF0ED7B26AF25C300C95951 /* Vistas */ = {
-			isa = PBXGroup;
-			children = (
-				3AF0ED6C26AF1D3A00C95951 /* ContentView.swift */,
-				3AF0ED7926AF247F00C95951 /* AlgoritmosView.swift */,
-				3AF0ED7C26AF25E800C95951 /* Mas.swift */,
-			);
-			path = Vistas;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -152,10 +166,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3AF0ED6D26AF1D3A00C95951 /* ContentView.swift in Sources */,
-				3AF0ED7D26AF25E800C95951 /* Mas.swift in Sources */,
-				3AF0ED7A26AF247F00C95951 /* AlgoritmosView.swift in Sources */,
-				3AF0ED6B26AF1D3A00C95951 /* AlgoritmosApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
